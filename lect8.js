@@ -28,6 +28,3 @@ const avj = null
 let meet;
 console.log(typeof(avj))//here if null is assgned to any variable 
 console.log(typeof(meet))
-
-
-
